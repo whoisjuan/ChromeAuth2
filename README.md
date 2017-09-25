@@ -204,4 +204,4 @@ API
 >Clears the applications token from the Chrome Storage.
 
 --
-<sub>This library has only been tested with the [GitHub API v3](http://developer.github.com/v3/) and [LIFX Remote Control API v1] (https://api.developer.lifx.com/)</sub>
+<sub>This library has only been tested with the [GitHub API v3](http://developer.github.com/v3/) and [LIFX Remote Control API v1](https://api.developer.lifx.com/)</sub>
