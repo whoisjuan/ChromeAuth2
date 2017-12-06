@@ -3,8 +3,8 @@
 
         access_token_url: "https://github.com/login/oauth/access_token",
         authorization_url: "https://github.com/login/oauth/authorize",
-        client_id: "911fa741a8b8dac7d28c",
-        client_secret: "e13f2f8ba4d9892eb231b4fcf3257013736327d1",
+        client_id: "00011111aaaaabbbbbbbccccccddddddd",
+        client_secret: "000111112222222333333aaaaabbbbbccccccdddddddeeeee",
         redirect_url: "https://github.com/robots.txt",
         scopes: [],
 
