@@ -129,13 +129,13 @@ The ideal way to call `oauth2.start()` function and initialize the library flow 
 	
 popup.html
 
-	<button id="oauth-button> Click Me to Authorize with GitHub</button>
+	<button id="oauth-button"> Click Me to Authorize with GitHub</button>
 <br>
 
 popup.js or background.js
 
 	$('#oauth-button').click(function() {
-    		window.oauth2.start();
+    	    window.oauth2.start();
 	});
 
 <br>
