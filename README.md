@@ -5,9 +5,6 @@
 
 <br>
 
-[[ ChromeAuth2 is a modification and expansion of <b>chrome-ex-oauth2</b>, a chrome extension oAuth library created by JJ Ford.
-You can see there original library here: <a href="https://github.com/jjNford/chrome-ex-oauth2"> jjNford/chrome-ex-oauth2</a> and the original fork here: <a href="https://github.com/whoisjuan/chrome-ex-oauth2"> whoisjuan/chrome-ex-oauth2 </a> ]]
-
 ChromeAuth2 is a Chrome Extension OAuth2 Library that provides a straight-forward and easy-to-use alternative to launch an OAuth2 Flows within a Chrome Extension.
 
 By using ChromeAuth2 you would be able to start an authorization process from a Chrome Extension `popup.html` view. ChromeAuth2 would then complete the authorization "dance" and store the token in a Chrome Storage instance that can be accessed from any script within your extension. 
