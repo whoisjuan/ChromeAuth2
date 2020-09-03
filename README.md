@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://whoisjuan.github.io/alt-images/chromeauth2.png" alt="ChromeAuth2: Chrome Extension OAuth2 Library"/>
 </p>
-===============================
 
+<br>
 <br>
 
 ChromeAuth2 is a Chrome Extension OAuth2 Library that provides a straight-forward and easy-to-use alternative to launch an OAuth2 Flows within a Chrome Extension.
