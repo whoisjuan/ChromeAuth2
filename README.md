@@ -12,6 +12,17 @@ By using ChromeAuth2 you would be able to start an authorization process from a 
 <br>
 <br>
 
+How Does it Work
+----------
+
+<p align="center">
+  <img src="https://whoisjuan.github.io/alt-images/flow.png" alt="ChromeAuth2: Chrome Extension OAuth2 Library Flow"/>
+</p>
+
+
+<br>
+<br>
+
 How To Use
 ----------
 #### 1. Add the following to your extension manifest:
@@ -161,17 +172,6 @@ For your convenience here is a comment that you can add to your extension for at
        	*http://www.apache.org/licenses/LICENSE-2.0
 	*/
 	
-<br>
-<br>
-
-How Does it Work
-----------
-
-<p align="center">
-  <img src="https://whoisjuan.github.io/alt-images/flow.png" alt="ChromeAuth2: Chrome Extension OAuth2 Library Flow"/>
-</p>
-
-
 <br>
 <br>
 
